@@ -1,0 +1,6 @@
+{
+  "name": "Farmer Digital Records Portal",
+  "description": "Mobile-friendly digital records and safety portal for rural farmers with multilingual support in English, Telugu, and Hindi, document organization, and digital literacy tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
